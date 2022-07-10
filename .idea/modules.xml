@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nighthawk_csa-master/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/nighthawk_csa-master/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nighthawk_csa-master/csa.iml" filepath="$PROJECT_DIR$/nighthawk_csa-master/csa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/k-5MathProject.iml" filepath="$PROJECT_DIR$/.idea/k-5MathProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nighthawk_csa-master/src/main/main.iml" filepath="$PROJECT_DIR$/nighthawk_csa-master/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nighthawk_csa-master/src/test/test.iml" filepath="$PROJECT_DIR$/nighthawk_csa-master/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
