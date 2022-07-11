@@ -11,10 +11,6 @@ public class FrontEndController {
         return "frontend/binary";
     }
 
-    @GetMapping("/frontend/draw")   // GET request
-    public String draw() {
-        return "frontend/draw";
-    }
 
     @GetMapping("/frontend/snake")   // GET request
     public String snake() {
@@ -34,6 +30,11 @@ public class FrontEndController {
     @GetMapping("/frontend/weblayout")   // GET request
     public String weblayout() {
         return "frontend/weblayout";
+    }
+
+    @GetMapping("/frontend/aboutme")   // GET request
+    public String aboutme() {
+        return "frontend/aboutme";
     }
 
 }
